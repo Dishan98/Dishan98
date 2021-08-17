@@ -3,8 +3,6 @@
 <p align="center" width="150px"> Hello, I am Dishan Chamika. A third year undergraduate from General Sir John Kotelawala Defence University, Sri Lanka.
 <br>  A passionate self-learner.</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishan98&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
