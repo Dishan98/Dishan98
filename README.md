@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Dishan Chamika </h1>
 
-<p align="center" width="150px"> Hello, I am Dishan Chamika a third year undergraduate from General Sir John Kotelawala Defence University, Sri Lanka.
-a passionate self-learner.</p>
+<p align="center" width="150px"> Hello, I am Dishan Chamika. A third year undergraduate from General Sir John Kotelawala Defence University, Sri Lanka.
+<br>  A passionate self-learner.</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dishan98&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Dishan98&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
@@ -37,5 +37,6 @@ a passionate self-learner.</p>
 <a href="mailto:dishanchamika@gmail.com"><img src="https://img.shields.io/badge/-dishanchamika@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/_dishan98_"><img src="https://img.shields.io/badge/-_dishan98_-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/dishan_chamika"><img src="https://img.shields.io/badge/-dishan_chamika-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.facebook.com/dishan.chamika.9"><img src="https://img.shields.io/badge/-Dishan Chamika-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
