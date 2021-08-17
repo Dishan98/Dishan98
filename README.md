@@ -36,6 +36,6 @@ a passionate self-learner.</p>
 <a href="https://www.linkedin.com/in/dishan-chamika-635324192/"><img src="https://img.shields.io/badge/-Dishan%20Chamika-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dishanchamika@gmail.com"><img src="https://img.shields.io/badge/-dishanchamika@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/_dishan98_"><img src="https://img.shields.io/badge/-_dishan98_-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/dishanchamika"><img src="https://img.shields.io/badge/-dishanchamika-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://twitter.com/dishan__chamika"><img src="https://img.shields.io/badge/-dishanchamika-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
