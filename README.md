@@ -33,10 +33,10 @@
 ### :link: &nbsp;Connect with me
 
 <p align="center">
+<a href="https://www.facebook.com/dishan.chamika.9"><img src="https://img.shields.io/badge/-Dishan Chamika-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/dishan-chamika-635324192/"><img src="https://img.shields.io/badge/-Dishan%20Chamika-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dishanchamika@gmail.com"><img src="https://img.shields.io/badge/-dishanchamika@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/_dishan98_"><img src="https://img.shields.io/badge/-_dishan98_-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/dishan_chamika"><img src="https://img.shields.io/badge/-dishan_chamika-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.facebook.com/dishan.chamika.9"><img src="https://img.shields.io/badge/-Dishan Chamika-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
